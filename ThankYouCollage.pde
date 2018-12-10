@@ -45,9 +45,4 @@ void setup()  {
       if(t<0){
       r=10; }
   fill(random(255),0,0);
-    
-    
-    
-    
-    
 }
